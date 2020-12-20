@@ -1,0 +1,8 @@
+name: FizzTRack
+description: 'The app helps in playing videos and audios'
+category: Lifestyle
+repository: 'https://github.com/nikhilkalburgi/FizzTrack'
+keywords:
+  - FizzTrack
+  - Player
+license: 'Apache-2.0'
